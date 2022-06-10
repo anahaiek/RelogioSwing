@@ -1,4 +1,4 @@
-# Relogio
+# Relógio
 Um relógio feito com Java que utiliza a data do sistema.
 
 ![relogioswingtela2](https://user-images.githubusercontent.com/88678265/173146084-2a9b5ae7-e577-4d07-ba0b-9acae4ccc94b.png)
